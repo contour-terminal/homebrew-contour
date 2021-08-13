@@ -1,10 +1,10 @@
-# Contour-terminal Contour
+# Brew formulae for Contour terminal emulator
 
 ## How do I install these formulae?
 
-`brew install contour-terminal/contour/<formula>`
+`brew install contour-terminal/contour/contour`
 
-Or `brew tap contour-terminal/contour` and then `brew install <formula>`.
+Or `brew tap contour-terminal/contour` and then `brew install contour`.
 
 ## Documentation
 
