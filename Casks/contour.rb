@@ -4,7 +4,7 @@ cask "contour" do
 
   url "https://github.com/contour-terminal/contour/releases/download/v#{version}/contour-#{version}-osx.dmg"
   name "Contour"
-  desc "Modern terminal emulator, for everyday use."
+  desc "Modern terminal emulator, for everyday use"
   homepage "https://github.com/contour-terminal/contour/"
 
   livecheck do
